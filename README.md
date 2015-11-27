@@ -1,3 +1,3 @@
-# My-new-Repository
+# hello-world
 Naipenda kazi yangu
-napenda sana kula MAYAI :COFFEE: :PIZZA, AND :DANCER:.
+I love :coffee: :pizza:, and :dancer:.
